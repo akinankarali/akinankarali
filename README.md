@@ -6,7 +6,7 @@
 ## Hi 👋, I'm Saim Akın
 
 #### A passionate Front-End Developer
-<p>🔭 I'm mostly interested in Web and Mobile Development. <br> I am work with Vue and React. Also I am still learning Flutter for mobile.</p>
+<p>🔭 I'm mostly interested in Web and Mobile Development. <br> I am working with Vue and React. Also, I am still learning Flutter for mobile.</p>
 
 ### Connect with me:
 
