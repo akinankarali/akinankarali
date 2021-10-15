@@ -1,6 +1,6 @@
 
 <p align="center"> 
- <img  src="https://media.giphy.com/media/QuJKTeDHHD4CcA8mRj/giphy.gif" width="375" > 
+ <img  src="https://media.giphy.com/media/QuJKTeDHHD4CcA8mRj/giphy.gif" width="275" > 
 </p>
 
 ## Hi 👋, I'm Saim Akın
